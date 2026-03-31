@@ -1,0 +1,9 @@
+venv/
+*.h5
+*.zip
+data/
+datasets/
+.env
+kaggle.json
+__pycache__/
+.ipynb_checkpoints/
